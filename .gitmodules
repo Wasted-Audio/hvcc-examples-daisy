@@ -1,0 +1,6 @@
+[submodule "_site"]
+	path = _site
+	url = https://github.com/electro-smith/Programmer.git
+[submodule "pd2dsy"]
+	path = pd2dsy
+	url = https://github.com/electro-smith/pd2dsy.git

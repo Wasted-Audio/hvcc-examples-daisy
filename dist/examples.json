@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Field Test",
+        "platform": "field",
+        "filepath": "./dist/HeavyDaisy_field_test.bin",
+        "description": "something test",
+        "url": "https://raw.githubusercontent.com/Wasted-Audio/hvcc-examples-daisy/main/dist/field_test.md"
+    }
+]
