@@ -63,10 +63,6 @@
                 "b": 6
             }
         },
-        "gate_in": {
-            "component": "GateIn",
-            "pin": 28
-        },
         "daisyled": {
             "component": "UserLed"
             }
