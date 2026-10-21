@@ -30,3 +30,4 @@ MIDI note input is also printed over serial.
 * Pedal Devkit
 * Desktop Devkit
 * Eurorack Devkit
+* Simple Touch
